@@ -4,4 +4,4 @@
 
 Utilisation de React, Redux et Bootstrap.
 
-Un aperçu ici : [https://count-react-redux.netlify.com/](https://count-react-redux.netlify.app/)
+Un aperçu ici : [https://count-react-redux.netlify.app/](https://count-react-redux.netlify.app/)
